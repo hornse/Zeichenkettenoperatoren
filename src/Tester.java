@@ -33,7 +33,7 @@ public class Tester {
     }
 
     public void setAusgabe(String pAusgabe) {
-        //dein Quellcode hier
+        ausgabe = pAusgabe;
     }
 
     public boolean palindromTest() {
