@@ -29,7 +29,7 @@ public class Tester {
     }
 
     public void setEingabe(String pEingabe) {
-        //dein Quellcode hier
+       eingabe=pEingabe;
     }
 
     public void setAusgabe(String pAusgabe) {
