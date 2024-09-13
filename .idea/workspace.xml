@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ecf2f12b-1c1c-49da-a313-aa9613042c8c" name="Changes" comment="initialexport">
-      <change beforePath="$PROJECT_DIR$/src/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zeichenkettenoperationen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zeichenkettenoperationen.java" afterDir="false" />
+    <list default="true" id="ecf2f12b-1c1c-49da-a313-aa9613042c8c" name="Changes" comment="getter und setter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,56 @@
       <option name="project" value="LOCAL" />
       <updated>1725615095644</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mit Menü">
+      <option name="closed" value="true" />
+      <created>1725615874093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725615874093</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mit Menü">
+      <option name="closed" value="true" />
+      <created>1725617216258</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725617216258</updated>
+    </task>
+    <task id="LOCAL-00004" summary="getter und setter">
+      <option name="closed" value="true" />
+      <created>1725617543161</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725617543161</updated>
+    </task>
+    <task id="LOCAL-00005" summary="getter und setter">
+      <option name="closed" value="true" />
+      <created>1725617951636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725617951636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialexport" />
-    <option name="LAST_COMMIT_MESSAGE" value="initialexport" />
+    <MESSAGE value="Mit Menü" />
+    <MESSAGE value="getter und setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="getter und setter" />
   </component>
 </project>
